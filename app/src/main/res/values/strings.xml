@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="art1_title">Bokoblin Sky Attack</string>
+    <string name="art1_artist">Bokoblin</string>
+    <string name="art1_year">2017</string>
+
+    <string name="art2_title">The Great Plateau</string>
+    <string name="art2_artist">The Old Man</string>
+    <string name="art2_year">2017</string>
+
+    <string name="art3_title">The Runes</string>
+    <string name="art3_artist">Purah</string>
+    <string name="art3_year">2018</string>
+
+    <string name="art4_title">King Rhoam Bhiphoromous Hyrule</string>
+    <string name="art4_artist">Ganon</string>
+    <string name="art4_year">2018</string>
+
+    <string name="art5_title">My Hero</string>
+    <string name="art5_artist">Aliza</string>
+    <string name="art5_year">2023</string>
+
+    <string name="artist_year_format">%s (%s)</string>
+    <string name="button_prev">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
